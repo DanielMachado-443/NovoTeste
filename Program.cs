@@ -20,7 +20,9 @@ namespace VamosNoGit
                     Console.WriteLine("   here we go");
                 }
 
-                Console.WriteLine("\n");
+                Console.WriteLine("\n\n   Now I think we're done");
+
+                Console.WriteLine("\n\n");
 
             }
         }
